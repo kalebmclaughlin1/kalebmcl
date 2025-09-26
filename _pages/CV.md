@@ -4,7 +4,7 @@ layout: single
 permalink: /CV/
 
  #Includes author profile in sidebar 5
-author: First M. Last
+author: Kaleb McLaughlin
 author_profile: true
 
 header:
