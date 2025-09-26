@@ -2,7 +2,7 @@
 
 First M. Last:
   name             : "Kaleb McLaughlin"
-  avatar           : "/assets/images/IMG_3113.JPG" # path of avatar image, e.g. "/assets/images/avatar.png"
+  avatar           : "/assets/images/IMG_3113.JPG" # path of avatar image, e.g. "/assets/images/avatar.JPG"
   bio              : "<br/>Department of Earth & Planetary Sciences, University of Florida<br/>"
   location         : Gainesville, FL
   email            : kaleb.mclaughlin@ufl.edu
