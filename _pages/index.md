@@ -1,6 +1,6 @@
 ---
 layout: splash
-title: " "
+title: "Kaleb McLaughlin"
 permalink: /
 hidden: true
 header:
